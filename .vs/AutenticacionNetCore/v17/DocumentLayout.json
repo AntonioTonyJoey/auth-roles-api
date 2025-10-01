@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitPersonal\\TAPP-104006-AutenticacionNetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1903D1ED-0DB2-463E-98A1-86DB44AAF3FD}|AutenticacionNetCore\\AutenticacionNetCore.csproj|d:\\gitpersonal\\tapp-104006-autenticacionnetcore\\autenticacionnetcore\\controllers\\autenticarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1903D1ED-0DB2-463E-98A1-86DB44AAF3FD}|AutenticacionNetCore\\AutenticacionNetCore.csproj|solutionrelative:autenticacionnetcore\\controllers\\autenticarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7BA4C6-D183-426F-8F1B-031E7E3E7602}|RepositorioRoles\\RepositorioRoles.csproj|d:\\gitpersonal\\tapp-104006-autenticacionnetcore\\repositorioroles\\irepositorioroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F7BA4C6-D183-426F-8F1B-031E7E3E7602}|RepositorioRoles\\RepositorioRoles.csproj|solutionrelative:repositorioroles\\irepositorioroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7BA4C6-D183-426F-8F1B-031E7E3E7602}|RepositorioRoles\\RepositorioRoles.csproj|d:\\gitpersonal\\tapp-104006-autenticacionnetcore\\repositorioroles\\repositorioroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F7BA4C6-D183-426F-8F1B-031E7E3E7602}|RepositorioRoles\\RepositorioRoles.csproj|solutionrelative:repositorioroles\\repositorioroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AF88DD-B6DD-4DB8-AC0E-68A224A19E1F}|ContextRoles\\ContextRoles.csproj|d:\\gitpersonal\\tapp-104006-autenticacionnetcore\\contextroles\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0AF88DD-B6DD-4DB8-AC0E-68A224A19E1F}|ContextRoles\\ContextRoles.csproj|solutionrelative:contextroles\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7BA4C6-D183-426F-8F1B-031E7E3E7602}|RepositorioRoles\\RepositorioRoles.csproj|d:\\gitpersonal\\tapp-104006-autenticacionnetcore\\repositorioroles\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F7BA4C6-D183-426F-8F1B-031E7E3E7602}|RepositorioRoles\\RepositorioRoles.csproj|solutionrelative:repositorioroles\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D96B24-2B23-417A-BB67-5BB3380A9037}|Types\\Types.csproj|d:\\gitpersonal\\tapp-104006-autenticacionnetcore\\types\\typeslocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D96B24-2B23-417A-BB67-5BB3380A9037}|Types\\Types.csproj|solutionrelative:types\\typeslocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TypesLocal.cs",
+              "DocumentMoniker": "D:\\GitPersonal\\TAPP-104006-AutenticacionNetCore\\Types\\TypesLocal.cs",
+              "RelativeDocumentMoniker": "Types\\TypesLocal.cs",
+              "ToolTip": "D:\\GitPersonal\\TAPP-104006-AutenticacionNetCore\\Types\\TypesLocal.cs",
+              "RelativeToolTip": "Types\\TypesLocal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:14:27.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AD.cs",
+              "DocumentMoniker": "D:\\GitPersonal\\TAPP-104006-AutenticacionNetCore\\RepositorioRoles\\AD.cs",
+              "RelativeDocumentMoniker": "RepositorioRoles\\AD.cs",
+              "ToolTip": "D:\\GitPersonal\\TAPP-104006-AutenticacionNetCore\\RepositorioRoles\\AD.cs",
+              "RelativeToolTip": "RepositorioRoles\\AD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:14:25.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\GitPersonal\\TAPP-104006-AutenticacionNetCore\\ContextRoles\\Datos\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ContextRoles\\Datos\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\GitPersonal\\TAPP-104006-AutenticacionNetCore\\ContextRoles\\Datos\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ContextRoles\\Datos\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:14:11.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositorioRoles.cs",
+              "DocumentMoniker": "D:\\GitPersonal\\TAPP-104006-AutenticacionNetCore\\RepositorioRoles\\RepositorioRoles.cs",
+              "RelativeDocumentMoniker": "RepositorioRoles\\RepositorioRoles.cs",
+              "ToolTip": "D:\\GitPersonal\\TAPP-104006-AutenticacionNetCore\\RepositorioRoles\\RepositorioRoles.cs",
+              "RelativeToolTip": "RepositorioRoles\\RepositorioRoles.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:20:12.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepositorioRoles.cs",
+              "DocumentMoniker": "D:\\GitPersonal\\TAPP-104006-AutenticacionNetCore\\RepositorioRoles\\IRepositorioRoles.cs",
+              "RelativeDocumentMoniker": "RepositorioRoles\\IRepositorioRoles.cs",
+              "ToolTip": "D:\\GitPersonal\\TAPP-104006-AutenticacionNetCore\\RepositorioRoles\\IRepositorioRoles.cs",
+              "RelativeToolTip": "RepositorioRoles\\IRepositorioRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:20:08.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutenticarController.cs",
+              "DocumentMoniker": "D:\\GitPersonal\\TAPP-104006-AutenticacionNetCore\\AutenticacionNetCore\\Controllers\\AutenticarController.cs",
+              "RelativeDocumentMoniker": "AutenticacionNetCore\\Controllers\\AutenticarController.cs",
+              "ToolTip": "D:\\GitPersonal\\TAPP-104006-AutenticacionNetCore\\AutenticacionNetCore\\Controllers\\AutenticarController.cs",
+              "RelativeToolTip": "AutenticacionNetCore\\Controllers\\AutenticarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:34:10.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

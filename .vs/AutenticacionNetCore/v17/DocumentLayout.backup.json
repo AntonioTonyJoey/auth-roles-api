@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOSELEO\\source\\repos\\TAPP-104006-AutenticacionNetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1903D1ED-0DB2-463E-98A1-86DB44AAF3FD}|AutenticacionNetCore\\AutenticacionNetCore.csproj|c:\\users\\joseleo\\source\\repos\\tapp-104006-autenticacionnetcore\\autenticacionnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1903D1ED-0DB2-463E-98A1-86DB44AAF3FD}|AutenticacionNetCore\\AutenticacionNetCore.csproj|solutionrelative:autenticacionnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1903D1ED-0DB2-463E-98A1-86DB44AAF3FD}|AutenticacionNetCore\\AutenticacionNetCore.csproj|c:\\users\\joseleo\\source\\repos\\tapp-104006-autenticacionnetcore\\autenticacionnetcore\\controllers\\autenticarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1903D1ED-0DB2-463E-98A1-86DB44AAF3FD}|AutenticacionNetCore\\AutenticacionNetCore.csproj|solutionrelative:autenticacionnetcore\\controllers\\autenticarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7BA4C6-D183-426F-8F1B-031E7E3E7602}|RepositorioRoles\\RepositorioRoles.csproj|c:\\users\\joseleo\\source\\repos\\tapp-104006-autenticacionnetcore\\repositorioroles\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F7BA4C6-D183-426F-8F1B-031E7E3E7602}|RepositorioRoles\\RepositorioRoles.csproj|solutionrelative:repositorioroles\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7BA4C6-D183-426F-8F1B-031E7E3E7602}|RepositorioRoles\\RepositorioRoles.csproj|c:\\users\\joseleo\\source\\repos\\tapp-104006-autenticacionnetcore\\repositorioroles\\repositorioroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F7BA4C6-D183-426F-8F1B-031E7E3E7602}|RepositorioRoles\\RepositorioRoles.csproj|solutionrelative:repositorioroles\\repositorioroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7BA4C6-D183-426F-8F1B-031E7E3E7602}|RepositorioRoles\\RepositorioRoles.csproj|c:\\users\\joseleo\\source\\repos\\tapp-104006-autenticacionnetcore\\repositorioroles\\irepositorioroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F7BA4C6-D183-426F-8F1B-031E7E3E7602}|RepositorioRoles\\RepositorioRoles.csproj|solutionrelative:repositorioroles\\irepositorioroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOSELEO\\source\\repos\\TAPP-104006-AutenticacionNetCore\\AutenticacionNetCore\\Program.cs",
+              "RelativeDocumentMoniker": "AutenticacionNetCore\\Program.cs",
+              "ToolTip": "C:\\Users\\JOSELEO\\source\\repos\\TAPP-104006-AutenticacionNetCore\\AutenticacionNetCore\\Program.cs",
+              "RelativeToolTip": "AutenticacionNetCore\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:00:20.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AD.cs",
+              "DocumentMoniker": "C:\\Users\\JOSELEO\\source\\repos\\TAPP-104006-AutenticacionNetCore\\RepositorioRoles\\AD.cs",
+              "RelativeDocumentMoniker": "RepositorioRoles\\AD.cs",
+              "ToolTip": "C:\\Users\\JOSELEO\\source\\repos\\TAPP-104006-AutenticacionNetCore\\RepositorioRoles\\AD.cs",
+              "RelativeToolTip": "RepositorioRoles\\AD.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:20:04.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositorioRoles.cs",
+              "DocumentMoniker": "C:\\Users\\JOSELEO\\source\\repos\\TAPP-104006-AutenticacionNetCore\\RepositorioRoles\\RepositorioRoles.cs",
+              "RelativeDocumentMoniker": "RepositorioRoles\\RepositorioRoles.cs",
+              "ToolTip": "C:\\Users\\JOSELEO\\source\\repos\\TAPP-104006-AutenticacionNetCore\\RepositorioRoles\\RepositorioRoles.cs",
+              "RelativeToolTip": "RepositorioRoles\\RepositorioRoles.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwDsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:20:12.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositorioRoles.cs",
+              "DocumentMoniker": "C:\\Users\\JOSELEO\\source\\repos\\TAPP-104006-AutenticacionNetCore\\RepositorioRoles\\IRepositorioRoles.cs",
+              "RelativeDocumentMoniker": "RepositorioRoles\\IRepositorioRoles.cs",
+              "ToolTip": "C:\\Users\\JOSELEO\\source\\repos\\TAPP-104006-AutenticacionNetCore\\RepositorioRoles\\IRepositorioRoles.cs",
+              "RelativeToolTip": "RepositorioRoles\\IRepositorioRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:20:08.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutenticarController.cs",
+              "DocumentMoniker": "C:\\Users\\JOSELEO\\source\\repos\\TAPP-104006-AutenticacionNetCore\\AutenticacionNetCore\\Controllers\\AutenticarController.cs",
+              "RelativeDocumentMoniker": "AutenticacionNetCore\\Controllers\\AutenticarController.cs",
+              "ToolTip": "C:\\Users\\JOSELEO\\source\\repos\\TAPP-104006-AutenticacionNetCore\\AutenticacionNetCore\\Controllers\\AutenticarController.cs",
+              "RelativeToolTip": "AutenticacionNetCore\\Controllers\\AutenticarController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:34:10.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
